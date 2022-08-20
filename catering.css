@@ -1,0 +1,21 @@
+@media (min-width: 992px) {
+    .cateringmenu{
+        width: 80%;
+        display: block;
+        margin: 0 auto;
+        margin-top: 20px;
+        height: 800px;
+    }
+}
+@media (max-width: 991px) and (min-width:391px) {
+    .cateringmenu{
+        width: 100%;
+        height: 80vh;
+    }
+}
+@media (max-width: 391px) {
+    .cateringmenu{
+        width: 100%;
+        height: 80vh;
+    }
+}
